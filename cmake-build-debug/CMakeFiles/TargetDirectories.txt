@@ -1,0 +1,3 @@
+/home/lirisimagine/CLionProjects/creatPatch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lirisimagine/CLionProjects/creatPatch/cmake-build-debug/CMakeFiles/creatPatch.dir
+/home/lirisimagine/CLionProjects/creatPatch/cmake-build-debug/CMakeFiles/edit_cache.dir
